@@ -1,4 +1,4 @@
-<img align="left" height="150" src="https://miro.medium.com/v2/resize:fit:1400/0*goaFvkjpQM-0p0h6."  />
+<img align="left" height="150" src="https://miro.medium.com/v2/resize:fit:1400/0*goaFvkjpQM-0p0h6." style="border-radius: 50%; border: 2px solid #ccc;"  />
 
 ###
 
