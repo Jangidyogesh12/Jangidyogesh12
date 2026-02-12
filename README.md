@@ -2,5 +2,5 @@
 
 ###
 
-<p align="left">I'm Yogesh Sharma from Surat<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Rust<br>-⚡ In my free time, I play table tennis and enjoy listening to music.</p>
+<p align="left">I'm Yogesh Sharma<br><br>- 🔭 I build software <br>- 📚 I wright code in Type Script<br>-⚡ In my free time, I code because i don's have any free time</p>
 
